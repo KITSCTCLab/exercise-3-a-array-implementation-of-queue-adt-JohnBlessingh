@@ -1,4 +1,5 @@
 class Solution:
+    
     """This class implements linear queue.
       Attributes:
           stack: A list which maintains the content of stack.
