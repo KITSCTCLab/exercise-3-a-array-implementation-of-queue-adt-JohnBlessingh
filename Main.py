@@ -1,5 +1,4 @@
 class Solution:
-    
     """This class implements linear queue.
       Attributes:
           stack: A list which maintains the content of stack.
@@ -129,4 +128,5 @@ for index in range(length_of_text):
 if is_palindrome:
     print("The word, " + text + ", is a palindrome.")
 else:
-    print("The word, " + text + ", is not a palindrome.")
+    print("The word, " + text + ", is not a palindrome.")
+
